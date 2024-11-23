@@ -1,0 +1,9 @@
+.dist
+dist
+logs
+node_modules
+scripts
+package-lock.json
+elm.json
+Elm-Project.pdf
+help.txt
